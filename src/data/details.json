@@ -1,0 +1,66 @@
+{
+  "body": {
+    "items" : [
+      {
+        "id": 1,
+        "itemId" : 1,
+        "title": "Lorem Ipsum is simply dummy text of the printing and industry.",
+        "desp":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using",
+        "time": "14:06",
+        "dateTime": "07.10.2020",
+        "updatedTime": "14:13",
+        "updatedDateTime": "07.10.2020",
+        "writerOptions": {
+          "writerImage": "agency",
+          "writerName": "DHA",
+          "writerNameDesp": "Doğan Haber Ajansı"
+        },
+        "imageOptions": {
+          "images":["boga", "araba", "reklammavi", "reklamsari"],
+          "imageDetails": "The standard chunk of Lorem Ipsum used since the 1500s is repro duced below for those interested."
+        },
+        "links": ["Elon Musk", "tesla Motors", "SpaceX", "Barış Yıldız", "Buğra Arslan"],
+        "comments": [
+          {
+            "commentHeader": "Barış Yıldız",
+            "comment": "Selam!"
+          },
+          {
+            "commentHeader": "Buğra Arslan",
+            "comment": "Selam!!"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "itemId" : 2,
+        "title": "Lorem Ipsum is simply dummy text of the printing and industry.",
+        "desp":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using",
+        "time": "14:06",
+        "dateTime": "07.10.2020",
+        "updatedTime": "14:13",
+        "updatedDateTime": "07.10.2020",
+        "writerOptions": {
+          "writerImage": "agency",
+          "writerName": "DHA",
+          "writerNameDesp": "Doğan Haber Ajansı"
+        },
+        "imageOptions": {
+          "images":["boga", "araba", "reklammavi", "reklamsari"],
+          "imageDetails": "The standard chunk of Lorem Ipsum used since the 1500s is repro duced below for those interested."
+        },
+        "links": ["Elon Musk", "tesla Motors", "SpaceX", "Barış Yıldız", "Buğra Arslan"],
+        "comments": [
+          {
+            "commentHeader": "Barış Yıldız",
+            "comment": "Selam!"
+          },
+          {
+            "commentHeader": "Buğra Arslan",
+            "comment": "Selam!!"
+          }
+        ]
+      }
+    ]
+  }
+}
